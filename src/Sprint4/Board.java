@@ -3,6 +3,7 @@ package Sprint4;
 import java.util.ArrayList;
 import java.util.Random;
 import java.util.TreeSet;
+import Sprint4.Tile.TileValue;
 
 public class Board {
     private static final Random RANDOM = new Random();
